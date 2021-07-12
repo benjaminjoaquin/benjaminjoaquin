@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
-
 <h4 align="right">Visitor's count :eyes:</h4>
 
 <p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
-
+<h2> Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
 
 <h3 align="center">A studen from México</h3>
 
