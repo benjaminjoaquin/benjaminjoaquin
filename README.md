@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquinmartinezbenjamin&show_icons=true&locale=en" alt="joaquinmartinezbenjamin" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joaquinmartinezbenjamin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinmartinezbenjamin&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joaquinmartinezbenjamin/github-readme-stats)
