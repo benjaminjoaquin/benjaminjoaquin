@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=joaquinmartinezbenjamin&show_icons=true" />
 </a>
 
-<p align="left">
+<p align="center">
  🤝🏻 Connect with Me 
 &nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> </p>
