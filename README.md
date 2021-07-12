@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm Benjamín <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h4 align="right">Visitor's count :eyes:</h4>
+
+<p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 
@@ -38,6 +41,4 @@ Here are some ideas to get you started:
   &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 
-<h4 align="left">Visitor's count :eyes:</h4>
 
-<p align="left"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
