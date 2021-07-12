@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Hey there! I'm Benjamín <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h1 align="center">Hi 👋, I'm Benjamín</h1>
+
 <h3 align="center">A studen from México</h3>
 
-- 📫 How to reach me **benjamin.joaquin.martinez@gmail.com**
+- 📫 How to reach me: **benjamin.joaquin.martinez@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
