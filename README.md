@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </a>
 
 <p align="left" width="1000">
-
+<h3> 🤝🏻 Connect with Me </h3>
 &nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="left"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> </p>
 
