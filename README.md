@@ -33,9 +33,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinmartinezbenjamin&langs_count=8" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=joaquinmartinezbenjamin&show_icons=true"  width="400"/>
-</a>
+
 
 
 
