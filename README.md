@@ -3,7 +3,8 @@
 <p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 
 
-<div width = "50%">
+
+<div width ="50%" align="center">
 
 <h2 align="center" width = "100%"> Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
 
@@ -23,7 +24,7 @@
 
 
 
-<div width = "100%" align="center">
+<div width ="100%" align="center">
 - 📫 How to reach me: 
 &nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
