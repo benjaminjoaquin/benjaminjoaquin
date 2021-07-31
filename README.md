@@ -7,9 +7,9 @@
 
 <h3 align="center" width = "100%">A programmer from México</h3>
 
-
+ <span align="center"> 
   <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px"/>
-  <span align="right"> Me gusta aprender sobre nuevas tecnologías y realizar proyectos que me dejen nuevos aprendizajes para poder implementarlos en mis diferentes
+ Me gusta aprender sobre nuevas tecnologías y realizar proyectos que me dejen nuevos aprendizajes para poder implementarlos en mis diferentes
 proyectos.</span>
 
 <h3 align="center">Languages and Tools:</h3>
