@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A programmer from México</h3>
 <h4 align="right">Visitor's count :eyes:</h4>
 
-<p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
