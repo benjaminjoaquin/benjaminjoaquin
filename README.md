@@ -1,25 +1,12 @@
-<!--
-**JoaquinMartinezBenjamin/JoaquinMartinezBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="right">Visitor's count :eyes:</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 
 
 <h2 align="center"> Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
 
 <h3 align="center">A programmer from México</h3>
-<h4 align="right">Visitor's count :eyes:</h4>
 
-<p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
