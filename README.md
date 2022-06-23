@@ -5,14 +5,14 @@
 <div width ="50%" align="center">
 <h2 align="center" width = "100%">Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
 <h3 align="center" width = "100%">A programmer from México</h3>
- <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400px"/>
+ <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350px"/>
  
   
 
 
-<div border= "3px double rgb(153, 0, 0)"  height= " 200" width =" 170">
+<div border= "3px double rgb(153, 0, 0)"  height= " 200px" width ="170px">
   <a href="https://portafoliobenjamin.blogspot.com/2022/02/formulario-basico.html" id="link">
- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEikVAHY38_Negnn1rB0yslA8C37WzYT8tt1IVaoV460oMpSSDLvGYCSbd7nSCagG48DchVcm1Rw85gyHq1F_45zdtVc4Bask8IjQqqbMGdEUSx8wLLUmGipleRPiYOqerwgWGO1MHQ2F28O5kUhseExWhxTcht2_hFB_Ff2Cl4lost5W59eYgOOKpkS=w353-h214" width="10%" />
+ <img src="https://blogger.googleusercontent.com/img/a/AVvXsEikVAHY38_Negnn1rB0yslA8C37WzYT8tt1IVaoV460oMpSSDLvGYCSbd7nSCagG48DchVcm1Rw85gyHq1F_45zdtVc4Bask8IjQqqbMGdEUSx8wLLUmGipleRPiYOqerwgWGO1MHQ2F28O5kUhseExWhxTcht2_hFB_Ff2Cl4lost5W59eYgOOKpkS=w353-h214" width="100px" />
  Formulario básico con php y sql
 </a>
  </div> 
