@@ -10,7 +10,7 @@
   
 
 
-<div border= "3px double rgb(153, 0, 0)"  height= " 200px" width ="170px">
+<div border= "3px double rgb(153, 0, 0)"  height= " 200px" width ="170px" align="center">
   <a href="https://portafoliobenjamin.blogspot.com/2022/02/formulario-basico.html" id="link">
  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEikVAHY38_Negnn1rB0yslA8C37WzYT8tt1IVaoV460oMpSSDLvGYCSbd7nSCagG48DchVcm1Rw85gyHq1F_45zdtVc4Bask8IjQqqbMGdEUSx8wLLUmGipleRPiYOqerwgWGO1MHQ2F28O5kUhseExWhxTcht2_hFB_Ff2Cl4lost5W59eYgOOKpkS=w353-h214" width="100px" />
  Formulario básico con php y sql
