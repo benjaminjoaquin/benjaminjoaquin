@@ -2,7 +2,7 @@
 <p align="right"><img src="https://profile-counter.glitch.me/{benjaminjoaquinmartinez}/count.svg" alt="benjaminjoaquinmartinez :: Visitor's Count" /></p>
 
 
-<div width ="50%" align="center">
+<div width ="50%" align="center" max-width = "350px" >
 <h2 align="center" width = "100%">Hey there! I'm Benjamín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
 <h3 align="center" width = "100%">A programmer from México</h3>
  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350px"/>
