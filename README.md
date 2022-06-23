@@ -10,27 +10,11 @@
    <div style="display: inline-flex;">
 
 
-<div style="border: 3px double rgb(153, 0, 0); height: 200px; width: 170px;">
+<div style="border: 3px double rgb(153, 0, 0); height: 200; width: 170;">
   <a href="https://portafoliobenjamin.blogspot.com/2022/02/formulario-basico.html" id="link">
  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEikVAHY38_Negnn1rB0yslA8C37WzYT8tt1IVaoV460oMpSSDLvGYCSbd7nSCagG48DchVcm1Rw85gyHq1F_45zdtVc4Bask8IjQqqbMGdEUSx8wLLUmGipleRPiYOqerwgWGO1MHQ2F28O5kUhseExWhxTcht2_hFB_Ff2Cl4lost5W59eYgOOKpkS=w353-h214" width="100%" />
  Formulario básico con php y sql
 </a></div> 
-
-
-<div style="border: 3px double rgb(153, 0, 0); height: 200px; width: 170px;">
-  <a href="https://portafoliobenjamin.blogspot.com/2022/03/sistema-de-venta-de-gasolina.html" id="link">
- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj5m2mkIuEe07ZGapdY7rZr_ZCzTnmhx4cL1azvidrBS1ziC_LSLfCLYWg-tGYbDOqwP8rm5vvwJ-zg5WmGampX6fhCVpplUhUHM26o6mHPo4-qeQsJnP_ophflbcxlJ-iC4XFSVRnPZydlDC81MkgOrjx1yGc41ysiyFr7YVFbb6vPXB7Ww6MP7DM_=w515-h346" width="100%" />
- Sistema de venta de gasolina php y sql
-</a></div>
-  
-  
-  <div style="border: 3px double rgb(153, 0, 0); height: 200px; width: 170px;">
-  <a href="https://portafoliobenjamin.blogspot.com/2022/03/descargar-videos-de-tik-tok.html" id="link">
- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEipG7UmPeNirk3O2i65Pk89K9y0KdzhhK3gmRq6X-u6kiRsacvrU3Qu5lkufznSOopu64-FErHk_lU1fH8nloHuATDFr_6GQcFGG0i_5aNurnhyVF9Jy4UNAPcO4xnHTNkcQC_XMt3heMei5noPluqlE_iekszPi9vrlhZU0UllPk-ojupRhfhEHFAS=s753" width="100%" />
-Herramienta para descargar videos de tik tok
-</a></div>
-  
-
   
 </div
  
@@ -41,8 +25,8 @@ Herramienta para descargar videos de tik tok
 </a>
 <div width ="100%" align="center">
 - 📫 How to reach me: 
-&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50px" /></a>
-  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50px" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </div>
 
 </div>
