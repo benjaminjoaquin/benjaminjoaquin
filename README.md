@@ -11,8 +11,8 @@
 </a>
 <div width ="100%" align="center">
 - 📫 How to reach me: 
-&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquinmartinez/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50px" /></a>
+  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50px" /></a>
 </div>
 
 </div>
