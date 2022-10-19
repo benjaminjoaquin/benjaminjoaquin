@@ -20,9 +20,10 @@
   &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </div>
 
-<div width ="1000%" align="right">
+<div width ="1000%" align="center">
 - 💼 Portfolio: 
+&nbsp;🌐WEB 
 &nbsp; <a href="https://benjaminxoaquin.github.io/SistemaWebGasolineria/" target="_blank" rel="noopener noreferrer">Sistema web de gasolineria</a>
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"></a>
+&nbsp; <a href="https://benjaminxoaquin.github.io/perseguirDiv/" target="_blank" rel="noopener noreferrer">Perseguir div</a>
 </div>
 
