@@ -5,6 +5,13 @@
  <h3 align="center" width = "100%">A programmer from México</h3>
  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="50%"/>
  </div>
+ 
+ <div width ="100%" align="right">
+- 📫 How to reach me: 
+&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquin/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</div>
+
  <div align="center">
 
 <h3 align="center">Languages and Tools:</h3>
@@ -14,11 +21,7 @@
 </a>
  </div>
  
-<div width ="100%" align="right">
-- 📫 How to reach me: 
-&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquin/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  &nbsp; <a href="mailto:benjamin.joaquin.martinez@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center"  src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</div>
+
 
 <div width ="1000%" align="center">
 - 💼 Portfolio: <br>
