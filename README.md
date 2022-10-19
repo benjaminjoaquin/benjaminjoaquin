@@ -21,9 +21,9 @@
 </div>
 
 <div width ="1000%" align="center">
-- 💼 Portfolio: 
-&nbsp;🌐WEB 
-&nbsp; <a href="https://benjaminxoaquin.github.io/SistemaWebGasolineria/" target="_blank" rel="noopener noreferrer">Sistema web de gasolineria</a>
-&nbsp; <a href="https://benjaminxoaquin.github.io/perseguirDiv/" target="_blank" rel="noopener noreferrer">Perseguir div</a>
+- 💼 Portfolio: <br>
+&nbsp;🌐WEB <br>
+&nbsp; <br><a href="https://benjaminxoaquin.github.io/SistemaWebGasolineria/" target="_blank" rel="noopener noreferrer">Sistema web de gasolineria</a>
+&nbsp; <br><a href="https://benjaminxoaquin.github.io/perseguirDiv/" target="_blank" rel="noopener noreferrer">Perseguir div</a>
 </div>
 
