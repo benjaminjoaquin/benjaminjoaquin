@@ -29,8 +29,8 @@
 </div>
 
 <div width ="1000%" align="center">
-- 💼 Portfolio: <br>
-&nbsp;🌐WEB <br>
-&nbsp; <br><a href="https://benjaminjoaquin.github.io/SistemaWebGasolineria/" target="_blank" rel="noopener noreferrer">Sistema web de gasolineria</a>
+💼 --------- 🌐<br>
+&nbsp; <br><a href="https://benjaminjoaquin.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a><br>
+ 💼 --------- 🌐
 
 </div>
