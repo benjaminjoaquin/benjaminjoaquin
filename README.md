@@ -1,5 +1,17 @@
 <h2 align="center" width = "100%">Benjamin Joaquín Martínez<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
- <h3 align="center" width = "100%">Web developer</h3>
+ <h3 align="center" width = "100%">Junior web developer</h3>
+ 
+ <p>Hola que tal, me presento: <br> Mi nombre es Benjamín y soy un programador 
+interesado en la programación web, front-end y back-end. También me gusta aprender sobre
+ la programación móvil y la integración de bases de datos a mis aplicaciones.
+</p>
+ 
+
+ 
+ <div width ="1000%" align="left">
+💼 --------- 🌐<br>
+&nbsp; <br><a href="https://benjaminjoaquin.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a><br>
+ </div>
  
 <div width ="100%" align="right">
 - 📫 How to reach me: 
@@ -28,9 +40,4 @@
 
 </div>
 
-<div width ="1000%" align="center">
-💼 --------- 🌐<br>
-&nbsp; <br><a href="https://benjaminjoaquin.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a><br>
- 💼 --------- 🌐
 
-</div>
