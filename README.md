@@ -9,8 +9,10 @@ interesado en la programación web, front-end y back-end. También me gusta apre
 
  
  <div width ="1000%" align="left">
-💼 -----P R O Y E C T O S---- 🌐<br>
-&nbsp; 
+💼 -----P R O Y E C T O S----🌐<br>
+
+ <a href="https://benjaminjoaquin.github.io/caballoAjedrez/" target="_blank">Posibles movimientos de un caballo de ajedrez</a>
+<br>
 <a href="https://benjaminjoaquin.github.io/tetris/" target="_blank">Mover una pieza de tetris</a>
 <br>
 <a href="https://benjaminjoaquin.github.io/sinopsisCuentos/" target="_blank">Sinopsis de cuentos</a>
