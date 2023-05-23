@@ -9,8 +9,41 @@ interesado en la programación web, front-end y back-end. También me gusta apre
 
  
  <div width ="1000%" align="left">
-💼 --------- 🌐<br>
-&nbsp; <br><a href="https://benjaminjoaquin.github.io/" target="_blank" rel="noopener noreferrer">Portafolio</a><br>
+💼 -----P R O Y E C T O S---- 🌐<br>
+&nbsp; 
+<a href="https://benjaminjoaquin.github.io/tetris/"> Mover una pieza de tetris</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/sinopsisCuentos/">Sinopsis de cuentos</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/buscaminas/">Primera versión de un buscaminas</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/SistemaWebGasolineria/">Sistema de cobro de gasolina</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/formularioSesion/">Formulario de inicio de sesión</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/perseguirDiv/">Perseguir un div</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/descargarVideosTiktok/">Descargar videos de tiktok </a>
+<br>
+<a href="https://benjaminjoaquin.github.io/calculadora_basica/">Calculadora básica en java</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/registrosconficheros/">Registros con ficheros en java </a>
+<br>
+<a href="https://benjaminjoaquin.github.io/tablaperiodica/">Tabla periódica en java</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/Calendario/">Calendario en java </a>
+<br>
+<a href="https://benjaminjoaquin.github.io/coordenadasMouse/">Coordenadas del mouse</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/app_calculadora/">App de calculadora android</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/app_dado/">App dado android</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/app_sesion/">App de sesión en android </a>
+<br>
+<a href="https://benjaminjoaquin.github.io/MetodosNumericos/">Métodos numéricos implementados en java</a>
+<br>
+<a href="https://benjaminjoaquin.github.io/laberinto/">Creador de laberintos primera versión</a>
  </div>
  
 <div width ="100%" align="right">
