@@ -11,42 +11,9 @@ interesado en la programación web, front-end y back-end. También me gusta apre
  <div width ="1000%" align="left">
 💼 -----P R O Y E C T O S----🌐<br>
 
- <a href="https://benjaminjoaquin.github.io/caballoAjedrez/" target="_blank">Posibles movimientos de un caballo de ajedrez</a>
+ <a href="https://benjaminjoaquin.github.io/proyectos/" target="_blank">Proyectos del repositorio</a>
 <br>
-<a href="https://benjaminjoaquin.github.io/tetris/" target="_blank">Mover una pieza de tetris</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/sinopsisCuentos/" target="_blank">Sinopsis de cuentos</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/buscaminas/" target="_blank">Primera versión de un buscaminas</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/SistemaWebGasolineria/" target="_blank">Sistema de cobro de gasolina</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/formularioSesion/" target="_blank">Formulario de inicio de sesión</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/perseguirDiv/" target="_blank">Perseguir un div</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/descargarVideosTiktok/" target="_blank">Descargar videos de tiktok </a>
-<br>
-<a href="https://benjaminjoaquin.github.io/calculadora_basica/" target="_blank">Calculadora básica en java</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/registrosconficheros/" target="_blank">Registros con ficheros en java </a>
-<br>
-<a href="https://benjaminjoaquin.github.io/tablaperiodica/" target="_blank">Tabla periódica en java</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/Calendario/" target="_blank">Calendario en java </a>
-<br>
-<a href="https://benjaminjoaquin.github.io/coordenadasMouse/" target="_blank">Coordenadas del mouse</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/app_calculadora/" target="_blank">App de calculadora android</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/app_dado/" target="_blank">App dado android</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/app_sesion/" target="_blank">App de sesión en android </a>
-<br>
-<a href="https://benjaminjoaquin.github.io/MetodosNumericos/" target="_blank">Métodos numéricos implementados en java</a>
-<br>
-<a href="https://benjaminjoaquin.github.io/laberinto/" target="_blank">Creador de laberintos primera versión</a>
- </div>
+</div>
  
 <div width ="100%" align="right">
 - 📫 How to reach me: 
