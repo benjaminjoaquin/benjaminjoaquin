@@ -8,12 +8,7 @@ interesado en la programación web, front-end y back-end. También me gusta apre
  
 
  
- <div width ="1000%" align="left">
-💼 -----P R O Y E C T O S----🌐<br>
-
- <a href="https://benjaminjoaquin.github.io/proyectos/" target="_blank">Proyectos del repositorio</a>
-<br>
-</div>
+ 
  
 <div width ="100%" align="right">
 - 📫 How to reach me: 
