@@ -1,4 +1,4 @@
-<h2 align="center" width = "100%">Benjamin Joaquín Martínez<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
+<h2 align="center" width = "100%">Benjamin Joaquín <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50"></h2>
  <h3 align="center" width = "100%">Junior web developer</h3>
  
  <p>Hola que tal, me presento: <br> Mi nombre es Benjamín y soy un programador 
