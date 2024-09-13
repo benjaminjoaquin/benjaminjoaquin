@@ -31,7 +31,7 @@ interesado en la programación web, front-end y back-end. También me gusta apre
  </p>
  
 <a href="https://github.com/anuraghazra/github-readme-stats" width = "100%">
-  <img align="center" display = "inline-flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbenjamin&layout=compact" />
+  <img align="center" display = "inline-flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjoaquin&layout=compact" />
 </a>
  
  
